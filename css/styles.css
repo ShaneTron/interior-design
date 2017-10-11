@@ -11,3 +11,21 @@ h1 {
 .pics {
   line-height: 50px;
 }
+
+.text {
+  margin: 4px;
+  border: 20px blue;
+  padding: 4px;
+}
+
+.before {
+  background-color: tan;
+}
+
+.during {
+  background-color: pink;
+}
+
+.after {
+  background-color: orange;
+}
